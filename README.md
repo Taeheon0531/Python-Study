@@ -1,4 +1,8 @@
-# Python-Study
+# Study
 
-## 1. Baekjoon study
-## 2. 
+# Git study
+
+# Python study
+# 1. Baekjoon
+
+# Algorithms and Complexity
